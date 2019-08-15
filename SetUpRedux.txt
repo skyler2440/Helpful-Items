@@ -1,7 +1,6 @@
 SETTING UP REDUX
 
 1. Add Dependancies
-    axios
     react-redux
     redux
     redux-thunk
