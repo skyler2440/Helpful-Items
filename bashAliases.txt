@@ -1,4 +1,4 @@
-alias cra='create-react-app'
+alias cra='create-react-app && yarn add react-router-dom'
 alias ys='yarn start'
 alias ya='yarn add'
 alias yarr='yarn add react-route'
